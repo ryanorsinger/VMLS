@@ -1,0 +1,8 @@
+
+# Prerequisites
+1. Install Julia
+2. Add the following packages:
+    - LinearAlgebra
+    - SparseArrays
+    - Plots
+    
